@@ -1,0 +1,159 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-image: linear-gradient(0deg, rgba(189, 195, 199, 0.07) 0.00%,rgb(137, 193, 249) 100.00%);
+}
+ 
+.home-text10 {
+  top: 13px;
+  left: 358px;
+  position: absolute;
+  font-style: italic;
+  text-align: center;
+  font-weight: 600;
+  animation-name: backInDown;
+  letter-spacing: 8px;
+  animation-delay: 0s;
+  animation-duration: 1s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-text11 {
+  top: 73px;
+  left: 569px;
+  position: absolute;
+  font-style: italic;
+  text-align: center;
+  font-weight: 400;
+  animation-name: backInDown;
+  letter-spacing: 6px;
+  animation-delay: 0s;
+  animation-duration: 1s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-image1 {
+  width: 234px;
+  height: 216px;
+  object-fit: cover;
+  animation-name: fadeInLeft;
+  animation-delay: 0ms;
+  animation-duration: 1s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-text12 {
+  top: 629px;
+  left: 575px;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 500;
+  animation-name: fadeInUp;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-image2 {
+  right: -10px;
+  width: 832px;
+  bottom: -1px;
+  height: 264px;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.home-text16 {
+  top: 121px;
+  left: 139px;
+  width: 80%;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.5;
+  animation-name: zoomIn;
+  letter-spacing: 1px;
+  animation-delay: 0s;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-image3 {
+  right: 14px;
+  width: 200px;
+  bottom: 110px;
+  position: absolute;
+  object-fit: cover;
+  animation-name: fadeInRight;
+  animation-delay: 0ms;
+  animation-duration: 1.6s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-image4 {
+  left: -76px;
+  width: 866px;
+  bottom: -6px;
+  height: 264px;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.home-image5 {
+  top: 17px;
+  right: 22px;
+  width: 200px;
+  position: absolute;
+  object-fit: cover;
+  animation-name: fadeInRight;
+  animation-delay: 0ms;
+  animation-duration: 1.4s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-image6 {
+  left: 22px;
+  width: 200px;
+  bottom: 75px;
+  position: absolute;
+  object-fit: cover;
+  animation-name: fadeInLeft;
+  animation-delay: 0ms;
+  animation-duration: 1.2s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.home-text31 {
+  top: 531px;
+  left: 421px;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 500;
+  animation-name: fadeInUp;
+  animation-delay: 0s;
+  animation-duration: 1s;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
